@@ -1,0 +1,5 @@
+git remote add origin git@github.com:Luke-lgc/remote_rep_lgc.git  关联远程仓库
+
+git remote -v 查看关联的所有仓库
+origin  git@github.com:Luke-lgc/remote_rep_lgc.git (fetch)  --- 上传
+origin  git@github.com:Luke-lgc/remote_rep_lgc.git (push)  --- 下载
